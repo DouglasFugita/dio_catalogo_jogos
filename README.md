@@ -1,1 +1,2 @@
-# dio_catalogo_jogos
+# DIO - Criando um catálogo de jogos usando boas práticas de arquitetura com .NET
+App criado para atender o desafio da Digital Inovation One - Criando um catálogo de jogos usando boas práticas de arquitetura com .NET
